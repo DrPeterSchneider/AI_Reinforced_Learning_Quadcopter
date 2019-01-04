@@ -2,7 +2,8 @@
 
 # Project Overview
 
-This
+In this project I try to train a neural network algorithm to fly a quadcopter. The physics of the quadcopter are simulated so
+that no real vehicle has to be used. The algorithm has the task to start the quadcopter vertical by taking control of the rotors. This is a done by a reinforced learning algorithm.
 
 # Packages
 
